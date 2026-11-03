@@ -1,2 +1,11 @@
 I am Nicolas Petrides I am a sophomore at Oregon State University. I am a Data Science and Finance dual major with a minor in Actuarial Science.
 I am 19 years old. I hope to find a career using any combination of the skills I am learning from my majors. During my time in college I have developed a interest in coding. This has led to me finding my own solo projects outside of class which I have put on the apple app store. I was drawn to data science because I believe it is the future. 
+
+Skills I am Working on:
+improving my coding skills
+improving my gym strength
+personal conversations and communication
+handwriting
+microsoft excel
+time managment
+singing
